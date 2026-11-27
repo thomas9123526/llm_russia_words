@@ -10,14 +10,17 @@ Russian textbooks for a Korean PhD student in LLM research who is moving to a Ru
 |---|---|---|---|
 | Russian for Beginners · Русский язык для начинающих · 초급 러시아어 | A1 → A2 | 25 | [한국어](russian-beginner/ko/README.md) · [English](russian-beginner/en/README.md) · [Русский](russian-beginner/ru/README.md) |
 | Intermediate Russian · Русский язык: средний уровень · 중급 러시아어 | A2 → B1/B2 | 25 | [한국어](russian-intermediate/ko/README.md) · [English](russian-intermediate/en/README.md) · [Русский](russian-intermediate/ru/README.md) |
+| Advanced Russian for Researchers · Русский язык для исследователей · 연구자를 위한 고급 러시아어 | B2 → C1 | 25 | [한국어](russian-advanced/ko/README.md) · [English](russian-advanced/en/README.md) · [Русский](russian-advanced/ru/README.md) |
 
-An expert-level book can be added later as `learn/russian-advanced/`.
+Word versions of the Beginner and Intermediate books are in [docx/](docx/).
 
 ## What the books cover
 
 **Beginner:** the alphabet and pronunciation, basic grammar, the six cases introduced one at a time, present, past and future tense, and the situations you meet in your first weeks: greetings, shopping, transport, the dormitory, documents, the bank, the doctor and the dean's office.
 
 **Intermediate:** full declension tables, verb aspect, verbs of motion, participles and verbal adverbs, then academic Russian: the structure of a scientific article, reading an LLM paper abstract, writing to your supervisor, speaking at a seminar, writing a short report, and preparing for the TORFL (ТРКИ) B1/B2 exams.
+
+**Advanced:** fine points of grammar and punctuation, scientific style, reading and writing full research papers, the candidate dissertation and автореферат, preparing and defending the dissertation, conference talks, peer review, grant applications, and idioms and colloquial speech.
 
 ## How to study one lesson
 

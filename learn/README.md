@@ -12,7 +12,7 @@ Russian textbooks for a Korean PhD student in LLM research who is moving to a Ru
 | Intermediate Russian · Русский язык: средний уровень · 중급 러시아어 | A2 → B1/B2 | 25 | [한국어](russian-intermediate/ko/README.md) · [English](russian-intermediate/en/README.md) · [Русский](russian-intermediate/ru/README.md) |
 | Advanced Russian for Researchers · Русский язык для исследователей · 연구자를 위한 고급 러시아어 | B2 → C1 | 25 | [한국어](russian-advanced/ko/README.md) · [English](russian-advanced/en/README.md) · [Русский](russian-advanced/ru/README.md) |
 
-Word versions of the Beginner and Intermediate books are in [docx/](docx/).
+Word versions of all three books are in [docx/](docx/).
 
 ## What the books cover
 
